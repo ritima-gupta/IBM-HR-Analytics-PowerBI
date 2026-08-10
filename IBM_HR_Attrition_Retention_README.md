@@ -30,7 +30,6 @@ results through an interactive Power BI executive dashboard.
   Early Exit Rate                43.0%
 
 These values are taken directly from the dashboard.
-fileciteturn1file0L42-L65
 
 ## Dashboard Analysis
 
@@ -39,48 +38,44 @@ These values are taken directly from the dashboard.
 Compared attrition rates across roles including Sales Representative,
 Laboratory Technician, Human Resources, Sales Executive, Research
 Scientist, Manufacturing Director, Healthcare Representative, Manager,
-and Research Director. fileciteturn1file0L12-L24
+and Research Director.
 
 ### 2. Attrition by Department
 
 Compared attrition across Sales, Human Resources, and Research &
-Development departments. fileciteturn1file0L25-L32
+Development departments. 
 
 ### 3. Attrition by Department and Overtime
 
 Analyzed how overtime relates to attrition across departments.
-fileciteturn1file0L25-L32
+
 
 ### 4. Attrition by Business Travel
 
 Examined attrition counts across business-travel groups.
-fileciteturn1file0L33-L37
 
 ### 5. Job Satisfaction and Attrition
 
 Compared attrition patterns across four job-satisfaction levels: Low,
-Medium, High, and Very High. fileciteturn1file0L66-L80
-
+Medium, High, and Very High. 
 ### 6. Attrition by Years Since Last Promotion
 
 Analyzed attrition rates across different values of years since the
-employee's last promotion. fileciteturn1file0L81-L106
+employee's last promotion. 
 
 ### 7. Salary and Attrition Context
 
 Used average monthly income and the average salary gap as workforce
-indicators in the executive dashboard. fileciteturn1file0L42-L49
-fileciteturn1file0L58-L65
+indicators in the executive dashboard.
 
 ### 8. Gender Analysis
 
 Included gender as an interactive dashboard filter for comparing
-workforce and attrition patterns. fileciteturn1file0L50-L56
+workforce and attrition patterns. 
 
 ### 9. Marital Status Analysis
 
 Included marital status as an interactive filter for segmentation.
-fileciteturn1file0L50-L56
 
 ## Power BI Skills Used
 
@@ -99,20 +94,16 @@ Included marital status as an interactive filter for segmentation.
 
 -   The workforce contains **1,470 employees**, with **237 attritions**
     and an overall attrition rate of **16.12%**.
-    fileciteturn1file0L42-L47
 -   Average monthly income is **\$6,503**, while the dashboard reports
     an **average salary gap of \$2,046**. fileciteturn1file0L48-L49
-    fileciteturn1file0L58-L59
 -   **28.3%** of the workforce is represented by the dashboard's
-    overtime-rate KPI. fileciteturn1file0L60-L61
+    overtime-rate KPI.
 -   Average job satisfaction is **2.7** on the displayed satisfaction
-    scale. fileciteturn1file0L62-L63
+    scale. 
 -   The dashboard reports an **early exit rate of 43.0%**.
-    fileciteturn1file0L64-L65
 -   Attrition is segmented by job role, department, business travel,
     overtime, job satisfaction, and years since last promotion, allowing
     HR teams to identify higher-risk workforce segments.
-    fileciteturn1file0L12-L37 fileciteturn1file0L66-L80
 
 ## Business Recommendations
 
